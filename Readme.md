@@ -41,11 +41,12 @@ Streamlit framework is being used for its deployment.
 Download from: https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset
 
 There is 3 csv files available for the project.
-    -Books.csv
+    
+-Books.csv
 
-    -Ratings.csv
+-Ratings.csv
 
-    -Users.csv
+ -Users.csv
 After downloading 3 of them, you can start cleaning and building a model.
 In this project, Cosine Similarity was used for building collaborative filtering recommender system.
 
@@ -59,8 +60,8 @@ In this project, Cosine Similarity was used for building collaborative filtering
 3.Input your preferences or choose a user profile to get personalized book recommendations.
 
 ## Screenshot
-- ![](https://github.com/PrachiPatel15/Book_Recommender_System/blob/main/Images/Image0.png)
-- ![](https://github.com/PrachiPatel15/Book-Recommender-System/blob/main/Images/Image1.png)
+- ![](https://github.com/abhiram0458/Book_Recommender_System/blob/main/Images/Image0.png)
+- ![](https://github.com/abhiram0458/Book-Recommender-System/blob/main/Images/Image1.png)
     
 
 
