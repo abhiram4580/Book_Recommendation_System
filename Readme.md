@@ -47,6 +47,7 @@ There is 3 csv files available for the project.
 -Ratings.csv
 
  -Users.csv
+ 
 After downloading 3 of them, you can start cleaning and building a model.
 In this project, Cosine Similarity was used for building collaborative filtering recommender system.
 
@@ -61,7 +62,7 @@ In this project, Cosine Similarity was used for building collaborative filtering
 
 ## Screenshot
 - ![](Images/Image0.png)
-- ![](Images/Image1.png)
+-![](Images/Image1.png)
 -![](Images/Image2.png)
     
 
