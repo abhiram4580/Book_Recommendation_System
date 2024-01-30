@@ -23,7 +23,7 @@ Streamlit framework is being used for its deployment.
   -Pandas
 
   -Scikit-learn (for collaborative filtering)
-  
+
   -pickle 
   
 ## Installation
@@ -34,9 +34,7 @@ Streamlit framework is being used for its deployment.
     git clone https://github.com/abhiram4580/Book_Recommendation_System.git
     
 
-2.Install the Dependencies by
-    ```bash
-    pip install -r requirements.txt
+2.- ***For Web Framework Requirements:*** ```pip install -r requirements.txt```
 
 
 ## Data
@@ -59,6 +57,10 @@ In this project, Cosine Similarity was used for building collaborative filtering
 2.Open your web browser and navigate to http://localhost:8501 to access the book recommendation system.
 
 3.Input your preferences or choose a user profile to get personalized book recommendations.
+
+## Screenshot
+- ![](https://github.com/PrachiPatel15/Book_Recommender_System/blob/main/Images/Image0.png)
+- ![](https://github.com/PrachiPatel15/Book-Recommender-System/blob/main/Images/Image1.png)
     
 
 
