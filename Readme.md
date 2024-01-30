@@ -46,11 +46,11 @@ After downloading 3 of them, you can start cleaning and building a model.
 In this project, Cosine Similarity was used for building collaborative filtering recommender system.
 
 ## Usage
-    1. Run the Streamlit app by:
+1. Run the Streamlit app by:
     ```bash
     streamlit run app.py
-    2.Open your web browser and navigate to http://localhost:8501 to access the book recommendation system.
-    3.Input your preferences or choose a user profile to get personalized book recommendations.
+2.Open your web browser and navigate to http://localhost:8501 to access the book recommendation system.
+3.Input your preferences or choose a user profile to get personalized book recommendations.
     
 
 
