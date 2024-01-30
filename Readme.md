@@ -60,8 +60,9 @@ In this project, Cosine Similarity was used for building collaborative filtering
 3.Input your preferences or choose a user profile to get personalized book recommendations.
 
 ## Screenshot
-- ![](https://github.com/abhiram0458/Book_Recommender_System/blob/main/Images/Image0.png)
-- ![](https://github.com/abhiram0458/Book-Recommender-System/blob/main/Images/Image1.png)
+- ![](Images/Image0.png)
+- ![](Images/Image1.png)
+-![](Images/Image2.png)
     
 
 
