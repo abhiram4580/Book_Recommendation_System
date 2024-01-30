@@ -17,9 +17,13 @@ Streamlit framework is being used for its deployment.
 
 ## Dependencies
   -Python 3.x
+
   -Streamlit
+
   -Pandas
+
   -Scikit-learn (for collaborative filtering)
+  
   -pickle 
   
 ## Installation
@@ -40,7 +44,9 @@ Download from: https://www.kaggle.com/datasets/arashnic/book-recommendation-data
 
 There is 3 csv files available for the project.
     -Books.csv
+
     -Ratings.csv
+
     -Users.csv
 After downloading 3 of them, you can start cleaning and building a model.
 In this project, Cosine Similarity was used for building collaborative filtering recommender system.
@@ -49,7 +55,7 @@ In this project, Cosine Similarity was used for building collaborative filtering
 1. Run the Streamlit app by:
     ```bash
     streamlit run app.py
-    
+
 2.Open your web browser and navigate to http://localhost:8501 to access the book recommendation system.
 
 3.Input your preferences or choose a user profile to get personalized book recommendations.
